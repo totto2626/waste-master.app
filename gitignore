@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# build output
+build/
+
+# local .env file
+.env
+
+# VSCode settings
+.vscode/
+
+# other temporary files
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/
+.Rprofile
+.Rhistory
+.Rdata
